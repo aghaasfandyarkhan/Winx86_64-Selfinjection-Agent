@@ -10,6 +10,8 @@ The shellcode is placed directly inside `src/main.rs`.
 
 ## How It Works
 
+**Medium Article:**[Click to open the article](https://aghaasfandyarkhan.medium.com/how-malware-developers-evade-even-modern-windows-av-using-self-injection-techniques-red-team-f4d93a6357de?sharedUserId=aghaasfandyarkhan)
+
 The basic workflow is:
 
 ```text
